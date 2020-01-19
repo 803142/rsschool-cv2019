@@ -16,7 +16,7 @@ Webpack, Babel, , Microsoft Office Suite (Word, Excel, PowerPoint, Outlook)
 1. whitefashion.by PHP, HTML, CSS, JS, Joomla
 2. kapchikov.by PHP, HTML, CSS, JS, Joomla
 3. smartbalance.online PHP, HTML, CSS, JS, WordPress
-   Education:
+### Education:
    Vitebsk State University.
    Microsoft Virtual Academy.
    Codecademy.
